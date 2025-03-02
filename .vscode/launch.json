@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FirstSpringApplication<FirstSpring>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.embarkx.FirstSpring.FirstSpringApplication",
+            "projectName": "FirstSpring",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
